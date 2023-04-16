@@ -1,0 +1,14 @@
+/*
+  Localizable.strings
+  KeyboardCleanAssistance
+
+  Created by 이승기 on 2023/04/05.
+  
+*/
+
+"menuItem.startCleaningKeyboard" = "Lock the keyboard";
+"menuItem.stop" = "Stop locking";
+"menuItem.quit" = "Quit";
+
+"auth.permissionNotice" = "Accessibility permission is not permitted.\nGo to the setting and toggle the KeyboardCleanAssistance App";
+"auth.goToSetting" = "Go to setting";
